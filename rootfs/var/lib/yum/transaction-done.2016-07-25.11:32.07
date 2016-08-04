@@ -1,0 +1,10 @@
+install 0:libnl3-3.2.21-10.el7.x86_64
+install 0:rdma-7.2_4.1_rc6-2.el7.noarch
+install 0:libibverbs-1.1.8-8.el7.x86_64
+install 0:librdmacm-1.0.21-1.el7.x86_64
+install 0:libaio-0.3.109-13.el7.x86_64
+install 0:sg3_utils-libs-1.37-5.el7.x86_64
+install 0:sg3_utils-1.37-5.el7.x86_64
+install 0:groff-base-1.22.2-8.el7.x86_64
+install 1:perl-parent-0.225-244.el7.noarch
+install 0:perl-HTTP-Tiny-0.033-3.el7.noarch

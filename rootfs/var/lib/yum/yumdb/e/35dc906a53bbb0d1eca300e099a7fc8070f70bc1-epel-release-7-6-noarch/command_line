@@ -1,0 +1,1 @@
+install epel-release --installroot=/var/lib/lxc/vsm1/rootfs

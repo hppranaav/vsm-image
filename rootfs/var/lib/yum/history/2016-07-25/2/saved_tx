@@ -1,0 +1,15 @@
+155:59f226366694ae029167ecff38c5fe72b854647e
+0
+4
+base:9007:1449700451
+extras:356:1467739008
+updates:2026:1469029255
+installed:156:53c398309162e97f4791306eb81a661d0b2acea8
+1
+mbr: epel-release,noarch,0,7,6 70
+  repo: extras
+  ts_state: u
+  output_state: 20
+  isDep: False
+  reason: user
+  reinstall: False
