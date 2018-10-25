@@ -1099,7 +1099,7 @@ $Revision: 2.51 $ $Date: 2013/04/29 22:19:11 $
 
 1.77 2002/10/06 03:27:02
 ! t/jperl.t
-  * Modified to accomodate up and comming patch by Inaba-san that
+  * Modified to accommodate up and comming patch by Inaba-san that
     will fix tr/// needing eval qq{}
     Message-Id: <9F78A19C-D6C3-11D6-BAC6-0003939A104C@dan.co.jp>
 ! encoding.pm 
